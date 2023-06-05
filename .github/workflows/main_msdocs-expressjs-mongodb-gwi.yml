@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'msdocs-expressjs-mongodb-GWI'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28A881FF80F54A029D861A9895CB917D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5455E84BC12C49BB93EF28E92B5CC9FE }}
           package: .
